@@ -78,8 +78,8 @@
             color: rgb(83, 27, 27);
         } 
         .space {
-            //width: 202px;
-            width: 282px;
+            width: 202px;
+            //width: 282px;
             height: auto;
             display: inline-block;
         }
